@@ -10,6 +10,9 @@ Tournament Challenge groups. These groups are provided in
 
 `http://games.espn.go.com/tournament-challenge-bracket/2015/en/group?groupID=<group_id>`
 
+@seankross wrote an R data package extension:
+[[https://github.com/seankross/bracketology]]
+
 ## Bracket Format
 
 First unzip `data/brackets.zip`. The format of each bracket is:
