@@ -10,8 +10,10 @@ Tournament Challenge groups. These groups are provided in
 
 `http://games.espn.go.com/tournament-challenge-bracket/2015/en/group?groupID=<group_id>`
 
-@seankross wrote an R data package extension:
-[[https://github.com/seankross/bracketology]]
+* R data package extension:
+  [seankross/bracketology](https://github.com/seankross/bracketology)
+* Game predictions and power rankings:
+  [octonion/basketball-bracketology](https://github.com/octonion/basketball-bracketology)
 
 ## Bracket Format
 
